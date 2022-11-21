@@ -1,6 +1,6 @@
 import { FaTh, FaUserAlt} from 'react-icons/fa';
 import {FiSettings} from 'react-icons/fi';
-import {AiFillSignal, AiOutlineCalculator, AiOutlineClose, AiOutlineFileDone} from 'react-icons/ai';
+import {AiFillSignal, AiOutlineCalculator} from 'react-icons/ai';
 import {GrPieChart} from 'react-icons/gr';
 
 

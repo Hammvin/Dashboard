@@ -1,11 +1,8 @@
 import React, {useState} from 'react'
-import { Link, NavLink } from 'react-router-dom';
-import TopNav from './TopNav';
+import { Link } from 'react-router-dom';
 import {FaBars} from 'react-icons/fa';
-import { AiOutlineFileDone } from 'react-icons/ai';
 import { SidebarList } from './SidbarList';
 import { IconContext } from 'react-icons';
-import { hover } from '@testing-library/user-event/dist/hover';
 
 const NavBar = () => {
 

@@ -1,7 +1,6 @@
 import './App.css';
 import './Components/Navbar.css'
-import  { Router, Routes, Route} from 'react-router-dom';
-import TopNav from './Components/TopNav';
+import  { Routes, Route} from 'react-router-dom';
 import DashBoard from './Components/DashBoard';
 import NavBar from './Components/NavBar';
 import Reports from './Components/Reports';
